@@ -57,8 +57,8 @@ projects.reverse().forEach((project, index) => {
             </video>
         </div>
         <div class="col-3">
-            <h2 class="strong">${project.name}</h2>
-            <p class="pt-5"> 
+            <h2 class="strong text-color-on-even-project-section">${project.name}</h2>
+            <p class="pt-4 text-color-on-even-project-section"> 
                ${project.description}
             </p>
         </div>
@@ -66,8 +66,8 @@ projects.reverse().forEach((project, index) => {
     } else {
         var child = $(`<div class="row py-2 justify-content-center odd-project-section-bg">
         <div class="col-3">
-            <h2 class="strong">${project.name}</h2>
-            <p class="pt-5">
+            <h2 class="strong text-color-on-odd-project-section">${project.name}</h2>
+            <p class="pt-4 text-color-on-odd-project-section">
                 ${project.description}
             </p>
         </div>

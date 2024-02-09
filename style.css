@@ -34,3 +34,11 @@ body {
 #contact-section {
     margin-top: 8%;
 }
+
+.text-color-on-even-project-section {
+    color: #F8FAFD;
+}
+
+.text-color-on-odd-project-section {
+    color: #74BDCB;
+}
