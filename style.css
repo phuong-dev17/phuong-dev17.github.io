@@ -1,10 +1,11 @@
 /* style: https://www.canva.com/colors/color-palettes/soft-slippers/ */
 
 body {
-    background-color: #FFF0DF;
+    background-color: #E7F2F8;
+    font-family: 'Montserrat', sans-serif;
 }
 .navbar-brand {
-    color: #F0C9B3;
+    color: #74BDCB;
 }
 .navbar {
     background-color: #F8FAFD;
@@ -18,14 +19,18 @@ body {
     height: auto;
 }
 
-.salmon-bg {
-    background-color: #F0C9B3;
+.even-project-section-bg {
+    background-color: #74BDCB;
 }
 
-.misty-blue-bg {
+.odd-project-section-bg {
     background-color: #F8FAFD;
 }
 
 #project-listing-section {
     margin-top: 4%;
+}
+
+#contact-section {
+    margin-top: 8%;
 }
