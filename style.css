@@ -12,3 +12,20 @@ body {
 .nav-link {
     color: #B4AAA9;
 }
+
+.video-size {
+    max-width: 70%;
+    height: auto;
+}
+
+.salmon-bg {
+    background-color: #F0C9B3;
+}
+
+.misty-blue-bg {
+    background-color: #F8FAFD;
+}
+
+#project-listing-section {
+    margin-top: 4%;
+}
