@@ -44,6 +44,11 @@ const projects = [
         "video": "media/AquaTrack.mp4",
         "description": "Let user set daily water intake goal and keep track of their progress."
     },
+    {
+        "name": "BuildYourFirstMap",
+        "video": "media/BuildYourFirstMap.mp4",
+        "description": "Show a list of bike shops in San Francisco city with auto clustering when zooming in/out."
+    },
 ];
 
 var projectListingSection = $("#project-listing-section")
