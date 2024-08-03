@@ -58,6 +58,16 @@ const projects = [
         "video": "media/BuildYourFirstMap.mp4",
         "description": "Show a list of bike shops in San Francisco city with auto clustering when zooming in/out."
     },
+    {
+        "name": "Traffic CDM for Operator - Android Application",
+        "video": "media/TrafficCDMForOperatorAndroidApp.mp4",
+        "description": "Internship at RISE (Research Institutes of Sweden) to develop an Android app supporting to submit events to their Train Collaborative Decision Making (CDM) system. The project is financed by Trafikverket. I used MVVM design pattern structure to divide between UI and logic. In the logic, I use Kotlin Coroutines to run executions in parallel to keep the application run smoothly."
+    },
+    {
+        "name": "Traffic CDM for Operator - React Native Application",
+        "video": "media/TrafficCDMForOperatorReactNativeApp.mp4",
+        "description": "Summer job at RISE (Research Institutes of Sweden) to develop a React Native app supporting to submit events to their Train Collaborative Decision Making (CDM) system. The project is financed by Trafikverket. During this project, I learnt and applied knowledge for React Native with Expo framework just within 1 month of the summer job. I picked up the knowledge quickly and finished the project with a working product for main functionalities. RISE is satisfied with the result of my work."
+    }
 ];
 
 
